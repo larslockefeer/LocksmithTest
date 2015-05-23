@@ -23,7 +23,7 @@ class LocksmithTestTests: XCTestCase {
     }
     
     func testStoreAndLoadData() {
-        let error = Locksmith.saveData(["key": "value"], forUserAccount: "com.locksmith.locksmithtest.userAccount", inService: "com.locksmith.locksmithtest.service")
+        let error = Locksmith.updateData(["key": "value"], forUserAccount: "com.locksmith.locksmithtest.userAccount", inService: "com.locksmith.locksmithtest.service")
         
         XCTAssertNil(error)
         

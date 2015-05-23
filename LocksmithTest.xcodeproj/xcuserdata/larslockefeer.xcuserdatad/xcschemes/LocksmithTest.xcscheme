@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "9D60D7BF1B0FE2F600BE14A9"
+               BlueprintIdentifier = "9D2ADECE1B10A6EF0097D239"
                BuildableName = "LocksmithTest.app"
                BlueprintName = "LocksmithTest"
                ReferencedContainer = "container:LocksmithTest.xcodeproj">
@@ -29,6 +29,20 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "9D60D7D41B0FE2F600BE14A9"
+               BuildableName = "LocksmithTestTests.xctest"
+               BlueprintName = "LocksmithTestTests"
+               ReferencedContainer = "container:LocksmithTest.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "NO"
+            buildForArchiving = "NO"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "9D2ADEE21B10A6F00097D239"
                BuildableName = "LocksmithTestTests.xctest"
                BlueprintName = "LocksmithTestTests"
                ReferencedContainer = "container:LocksmithTest.xcodeproj">
@@ -52,11 +66,21 @@
                ReferencedContainer = "container:LocksmithTest.xcodeproj">
             </BuildableReference>
          </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "9D2ADEE21B10A6F00097D239"
+               BuildableName = "LocksmithTestTests.xctest"
+               BlueprintName = "LocksmithTestTests"
+               ReferencedContainer = "container:LocksmithTest.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "9D60D7BF1B0FE2F600BE14A9"
+            BlueprintIdentifier = "9D2ADECE1B10A6EF0097D239"
             BuildableName = "LocksmithTest.app"
             BlueprintName = "LocksmithTest"
             ReferencedContainer = "container:LocksmithTest.xcodeproj">
@@ -76,7 +100,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "9D60D7BF1B0FE2F600BE14A9"
+            BlueprintIdentifier = "9D2ADECE1B10A6EF0097D239"
             BuildableName = "LocksmithTest.app"
             BlueprintName = "LocksmithTest"
             ReferencedContainer = "container:LocksmithTest.xcodeproj">
@@ -95,7 +119,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "9D60D7BF1B0FE2F600BE14A9"
+            BlueprintIdentifier = "9D2ADECE1B10A6EF0097D239"
             BuildableName = "LocksmithTest.app"
             BlueprintName = "LocksmithTest"
             ReferencedContainer = "container:LocksmithTest.xcodeproj">
